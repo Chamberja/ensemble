@@ -1,0 +1,27 @@
+{
+  "name": "ensemble",
+  "version": "1.0.0",
+  "description": "An attempt to develop a SPA against SPINE using aspects of Bolt Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chamberja/ensemble.git"
+  },
+  "author": "Jason Ames",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chamberja/ensemble/issues"
+  },
+  "homepage": "https://github.com/Chamberja/ensemble#readme",
+  "dependencies": {
+    "@bedegaming/bolt": "^51.0.3",
+    "orchestra": "^3.0.0-pre.11"
+  },
+  "devDependencies": {
+    "@bedegaming/bolt-tasks": "^9.0.1",
+    "@bedegaming/eslint-config-bede": "^1.0.2"
+  }
+}

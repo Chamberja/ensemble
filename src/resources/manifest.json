@@ -1,0 +1,42 @@
+{
+  "short_name": "NAMETHIS",
+  "name": "NAMETHIS",
+  "description": "Welcome to NAMETHIS, the place to be for the very best Online Casino Games. Should you choose to deposit you will receive a &pound;500 Deposit Match as well as &pound;10 Free. Join Now for that premium casino experience.",
+  "icons": [
+    {
+      "src": "icon-36x36.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#001e33",
+  "background_color": "#001e33",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
